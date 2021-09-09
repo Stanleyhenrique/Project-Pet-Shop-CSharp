@@ -1,0 +1,11 @@
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\bin\Debug\ProjectPetShop.exe.config
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\bin\Debug\ProjectPetShop.exe
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\bin\Debug\ProjectPetShop.pdb
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\obj\Debug\ProjectPetShop.csproj.AssemblyReference.cache
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\obj\Debug\ProjectPetShop.Form1.resources
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\obj\Debug\ProjectPetShop.Properties.Resources.resources
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\obj\Debug\ProjectPetShop.csproj.GenerateResource.cache
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\obj\Debug\ProjectPetShop.csproj.CoreCompileInputs.cache
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\obj\Debug\ProjectPetShop.exe
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\obj\Debug\ProjectPetShop.pdb
+C:\Users\craqu\OneDrive\Área de Trabalho\Projects\C#\ProjectPetShop\ProjectPetShop\obj\Debug\ProjectPetShop.frmCadCliente.resources
